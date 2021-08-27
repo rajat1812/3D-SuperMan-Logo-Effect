@@ -1,0 +1,22 @@
+Base path: '/Applications/Unity/2019.4.13f1/Unity.app/Contents', plugins path '/Applications/Unity/2019.4.13f1/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=3158 outsize=48467 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=48467 outsize=85198 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=11289 outsize=22342 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5372 outsize=7542 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=18731 outsize=9505 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9901 outsize=16826 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1864 outsize=1997 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1153 outsize=1299 ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=11688 outsize=2059 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
